@@ -20,5 +20,3 @@ Bree is known for her creativity, organization, and self awareness. Advances in 
 ### Email Me
 📩: browder.bree@gmail.com
 
-
-#### Please Note: Some links may be internal and inaccessible to the general public outside of Holberton School students.
